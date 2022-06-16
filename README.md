@@ -1,19 +1,19 @@
-<h3 align="center">👋 Hi there! I'm Gift Egwuenu</h3>
+<h3 align="center">👋 Hi there! I'm Mita Raboya</h3>
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <a href="https://www.linkedin.com/in/mitaraboya/">LinkedIn</a> •
+  <a href="https://twitter.com/mita_nm">Twitter</a>
 </p>
 
 ---
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
+✨ I'm an aspiring  Full stack software developer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a GitHub Star, Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+I love sharing my knowledge with others, and an individual who is Equipped with a diverse and promising skill set, with advanced understanding in various programming languages such as JavaScript, Python, Nodejs, data dynamics and Database management systems. Experienced with the latest cutting-edge development tools and procedures.
 
 
 - 😄 My Pronouns: She/Her   
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- 💬 Ask me about: Javascript, Typecript, Building Career In Tech, Setting Career goals.
+- 📫 How to reach me: [@mita_nm](https://twitter.com/mita_nm)
+- ⚡ Fun fact: I enjoy cooking and reading Novels.
 
 
 <!---
