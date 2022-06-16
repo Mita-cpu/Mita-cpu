@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Mita Raboya</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mitaraboya/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mita-raboya/">LinkedIn</a> •
   <a href="https://twitter.com/mita_nm">Twitter</a>
 </p>
 
